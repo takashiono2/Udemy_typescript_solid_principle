@@ -4,6 +4,7 @@
           "jest"
         ],
       "esModuleInterop": true,
+      "target": "ES2015",
       "lib": ["ES2022", "DOM"]
     }
 }

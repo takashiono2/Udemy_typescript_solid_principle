@@ -37,3 +37,24 @@
 | 26. | 依存性逆転の原則【コーディング Part2】 |
 | 27. | ソースコードとリンク |
 </details>
+<details>
+<summary> セクション4: デザインパターン Part1 </summary>
+
+| NO | 内容 |
+| ---- | ---- |
+| 28. | デザインパターンの概要 |
+| 29. | TemplateMethod【講義】 |
+| 30. | Template Method【コーディング】 |
+<!-- | 31. | Singleton【講義】 |
+| 32. | Singleton【コーディング】 |
+| 33. | Adapter【講義】 |
+| 34. | Adapter【コーディング Part1】 |
+| 35. | Adapter【コーディング Part2】 |
+| 36. | Iterator【講義】 |
+| 37. | Iterator【コーディング】 |
+| 38. | Factory Method【講義】 |
+| 39. | Factory Method【コーディング】 |
+| 40. | Facade【講義】 |
+| 41. | Facade【コーディング】 |
+| 42. | ソースコード | -->
+</details>
