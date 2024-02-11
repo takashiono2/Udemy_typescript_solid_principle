@@ -51,8 +51,8 @@
 | 34. | Adapter【コーディング Part1】 |
 | 35. | Adapter【コーディング Part2】 |
 | 36. | Iterator【講義】 |
-<!-- | 37. | Iterator【コーディング】 |
-| 38. | Factory Method【講義】 |
+| 37. | Iterator【コーディング】 |
+<!-- | 38. | Factory Method【講義】 |
 | 39. | Factory Method【コーディング】 |
 | 40. | Facade【講義】 |
 | 41. | Facade【コーディング】 |
