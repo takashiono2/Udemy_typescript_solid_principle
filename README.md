@@ -14,6 +14,7 @@
 | 10. | ソースコード |
 
 </details>
+
 <details>
 <summary> セクション3: SOLID原則 </summary>
 
@@ -54,7 +55,36 @@
 | 37. | Iterator【コーディング】 |
 | 38. | Factory Method【講義】 |
 | 39. | Factory Method【コーディング】 |
-<!-- | 40. | Facade【講義】 |
+| 40. | Facade【講義】 |
 | 41. | Facade【コーディング】 |
-| 42. | ソースコード | -->
+| 42. | ソースコード |
+</details>
+
+<details>
+<summary> セクション5: デザインパターン Part2 </summary>
+
+| NO | 内容 |
+| ---- | ---- |
+| 43. | Prototype【講義】 |
+<!-- | 44. | Prototype【コーディング】 |
+| 45. | Builder【講義】 |
+| 46. | Builder【コーディング】 |
+| 47. | Abstract Factory【講義】 |
+| 48. | Abstract Factory【コーディング】 |
+| 49. | Strategy【講義】 |
+| 50. | Strategy【コーディング】 |
+| 51. | State【講義】 |
+| 52. | State【コーディング】 |
+| 53. | Chain of Responsibility【講義】 |
+| 54. | Chain of Responsibility【コーディング】 |
+| 55. | Composite【講義】 |
+| 56. | |
+| 57. | |
+| 58. | |
+| 59. | |
+| 60. | |
+| 61. | |
+| 62. | |
+| 63. | | -->
+
 </details>
