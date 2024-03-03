@@ -66,8 +66,8 @@
 | NO | 内容 |
 | ---- | ---- |
 | 43. | Prototype【講義】 |
-<!-- | 44. | Prototype【コーディング】 |
-| 45. | Builder【講義】 |
+| 44. | Prototype【コーディング】 |
+<!-- | 45. | Builder【講義】 |
 | 46. | Builder【コーディング】 |
 | 47. | Abstract Factory【講義】 |
 | 48. | Abstract Factory【コーディング】 |
