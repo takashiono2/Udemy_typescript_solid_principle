@@ -67,11 +67,11 @@
 | ---- | ---- |
 | 43. | Prototype【講義】 |
 | 44. | Prototype【コーディング】 |
-<!-- | 45. | Builder【講義】 |
+| 45. | Builder【講義】 |
 | 46. | Builder【コーディング】 |
 | 47. | Abstract Factory【講義】 |
 | 48. | Abstract Factory【コーディング】 |
-| 49. | Strategy【講義】 |
+<!-- | 49. | Strategy【講義】 |
 | 50. | Strategy【コーディング】 |
 | 51. | State【講義】 |
 | 52. | State【コーディング】 |
