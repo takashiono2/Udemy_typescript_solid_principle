@@ -73,9 +73,9 @@
 | 48. | Abstract Factory【コーディング】 |
 | 49. | Strategy【講義】 |
 | 50. | Strategy【コーディング】 |
-<!-- | 51. | State【講義】 |
+| 51. | State【講義】 |
 | 52. | State【コーディング】 |
-| 53. | Chain of Responsibility【講義】 |
+<!-- | 53. | Chain of Responsibility【講義】 |
 | 54. | Chain of Responsibility【コーディング】 |
 | 55. | Composite【講義】 |
 | 56. | |
