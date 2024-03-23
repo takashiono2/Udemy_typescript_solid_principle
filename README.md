@@ -75,16 +75,16 @@
 | 50. | Strategy【コーディング】 |
 | 51. | State【講義】 |
 | 52. | State【コーディング】 |
-<!-- | 53. | Chain of Responsibility【講義】 |
+| 53. | Chain of Responsibility【講義】 |
 | 54. | Chain of Responsibility【コーディング】 |
-| 55. | Composite【講義】 |
-| 56. | |
-| 57. | |
-| 58. | |
-| 59. | |
-| 60. | |
-| 61. | |
-| 62. | |
-| 63. | | -->
+<!-- | 55. | Composite【講義】 |
+| 56. | Composite【コーディング】 |
+| 57. | Decorator【講義】 |
+| 58. | Decorator【コーディング】 |
+| 59. | Proxy【講義】 |
+| 60. | Proxy【コーディング】 |
+| 61. | Bridge【講義】 |
+| 62. | Bridge【コーディング】 |
+| 63. | ソースコード | -->
 
 </details>
