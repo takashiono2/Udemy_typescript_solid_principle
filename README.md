@@ -77,9 +77,9 @@
 | 52. | State【コーディング】 |
 | 53. | Chain of Responsibility【講義】 |
 | 54. | Chain of Responsibility【コーディング】 |
-<!-- | 55. | Composite【講義】 |
+| 55. | Composite【講義】 |
 | 56. | Composite【コーディング】 |
-| 57. | Decorator【講義】 |
+<!-- | 57. | Decorator【講義】 |
 | 58. | Decorator【コーディング】 |
 | 59. | Proxy【講義】 |
 | 60. | Proxy【コーディング】 |
