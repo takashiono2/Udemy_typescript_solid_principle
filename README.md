@@ -79,9 +79,9 @@
 | 54. | Chain of Responsibility【コーディング】 |
 | 55. | Composite【講義】 |
 | 56. | Composite【コーディング】 |
-<!-- | 57. | Decorator【講義】 |
+| 57. | Decorator【講義】 |
 | 58. | Decorator【コーディング】 |
-| 59. | Proxy【講義】 |
+<!-- | 59. | Proxy【講義】 |
 | 60. | Proxy【コーディング】 |
 | 61. | Bridge【講義】 |
 | 62. | Bridge【コーディング】 |
