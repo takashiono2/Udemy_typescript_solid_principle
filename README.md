@@ -88,3 +88,24 @@
 | 63. | ソースコード |
 
 </details>
+<summary> セクション6: デザインパターン Part3 </summary>
+
+| NO | 内容 |
+| ---- | ---- |
+| 64. | Flyweight【講義】 |
+| 65. | Flyweight【コーディング】 |
+<!-- | 66. | Observer【講義】 |
+| 67. | Observer【コーディング】 |
+| 68. | Mediator【講義】 |
+| 69. | Mediator【コーディング】 |
+| 70. | Memento【講義】 |
+| 71. | Memento【コーディング】 |
+| 72. | Visitor【講義】 |
+| 73. | Visitor【コーディング】 |
+| 74. | Command【講義】 |
+| 75. | Command【コーディング】 |
+| 76. | Interpreter【講義】 |
+| 77. | Interpreter【コーディング】 |
+| 78. | ソースコード | -->
+
+</details>
