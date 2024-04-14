@@ -96,9 +96,9 @@
 | 65. | Flyweight【コーディング】 |
 | 66. | Observer【講義】 |
 | 67. | Observer【コーディング】 |
-<!-- | 68. | Mediator【講義】 |
+| 68. | Mediator【講義】 |
 | 69. | Mediator【コーディング】 |
-| 70. | Memento【講義】 |
+<!-- | 70. | Memento【講義】 |
 | 71. | Memento【コーディング】 |
 | 72. | Visitor【講義】 |
 | 73. | Visitor【コーディング】 |
