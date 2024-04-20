@@ -98,11 +98,11 @@
 | 67. | Observer【コーディング】 |
 | 68. | Mediator【講義】 |
 | 69. | Mediator【コーディング】 |
-<!-- | 70. | Memento【講義】 |
+| 70. | Memento【講義】 |
 | 71. | Memento【コーディング】 |
 | 72. | Visitor【講義】 |
 | 73. | Visitor【コーディング】 |
-| 74. | Command【講義】 |
+<!-- | 74. | Command【講義】 |
 | 75. | Command【コーディング】 |
 | 76. | Interpreter【講義】 |
 | 77. | Interpreter【コーディング】 |
