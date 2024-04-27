@@ -102,9 +102,9 @@
 | 71. | Memento【コーディング】 |
 | 72. | Visitor【講義】 |
 | 73. | Visitor【コーディング】 |
-<!-- | 74. | Command【講義】 |
+| 74. | Command【講義】 |
 | 75. | Command【コーディング】 |
-| 76. | Interpreter【講義】 |
+<!-- | 76. | Interpreter【講義】 |
 | 77. | Interpreter【コーディング】 |
 | 78. | ソースコード | -->
 
