@@ -88,6 +88,7 @@
 | 63. | ソースコード |
 
 </details>
+<details>
 <summary> セクション6: デザインパターン Part3 </summary>
 
 | NO | 内容 |
@@ -104,8 +105,8 @@
 | 73. | Visitor【コーディング】 |
 | 74. | Command【講義】 |
 | 75. | Command【コーディング】 |
-<!-- | 76. | Interpreter【講義】 |
+| 76. | Interpreter【講義】 |
 | 77. | Interpreter【コーディング】 |
-| 78. | ソースコード | -->
+| 78. | ソースコード |
 
 </details>
